@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(187, 168, 168);
+  border: 5px solid green;
+}
+img{
+  width: 380px;
+  height: 400px;
+  border: 1px solid rgb(69, 74, 69);
+  position: absolute;
+  margin-top: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+.p1{
+  width: 30%;
+  position: relative;
+  left: 35%;
+  top: 120%;
+  background-color: gray;
+}
+
+.p2{
+  width: 30%;
+  position: relative;
+  top: 10%;
+  left: 35%;
+  margin-top: 0;
+  padding-top: 0;
+  background-color: gray;
+}
+
+.p3{
+  width: 30%;
+  position: absolute;
+  left: 68%;
+  top: 16%;
+  background-color: gray;
+}
+
+.p4{
+  width: 30%;
+  position: absolute;
+  left: 68%;
+  top: 38%;
+  background-color: gray;
+}
+
+.p5{
+  width: 30%;
+  position: absolute;
+  left: 68%;
+  top: 68%;
+    background-color: gray;
+}
